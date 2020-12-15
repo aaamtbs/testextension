@@ -12,7 +12,7 @@ enum MyEnum {
 }
 
 /**
- * Custom1 blocks
+ * Custom123 blocks
  */
 //% weight=100 color=#FF0000 icon="❄"
 namespace custom1 {
